@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\sesi8\OneDrive\Documents\GitHub\bootcamp\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+969933790.index
+2415766096.index
+4006255559.index
+761602325.index
+4070136799.index
+3013592084.index
